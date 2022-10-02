@@ -1,0 +1,17 @@
+:root{
+	--nav:#FC4A1A ; 
+    --body:#DFDCE3;
+
+	
+}
+
+.color-nav{
+    background-color: var(--nav);
+}
+
+.color-body{
+    background-color: var(--body);
+}
+.color-body-letra{
+    color: var(--body);
+}
